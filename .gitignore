@@ -1,0 +1,10 @@
+Intermediate/
+Binaries/
+Saved/
+Content/StarterContent/
+
+*.VC.db
+.vs/
+
+
+#### TEST
