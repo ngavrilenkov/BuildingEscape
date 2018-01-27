@@ -26,3 +26,5 @@ Content/StarterContent/
 *.VC.opendb
 *.sln
 .vs/
+**/xcuserstate/
+*.xcuserstate
